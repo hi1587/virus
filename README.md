@@ -1,1 +1,9 @@
+![Logo](https://github.com/notpoiu1/virus-/blob/main/logo.jpg)
 # virus
+
+## WARNING: This can destroy your computer so please dont test it unless for education purposes AND do not run "BlueBooter.bat" since its going to blue screen forever. 
+
+# Requirements:
+> Move it to the desktop
+
+# You can view the source code in [src](https://github.com/notpoiu1/virus-/tree/main/src).
