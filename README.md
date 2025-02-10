@@ -1,4 +1,4 @@
-![Logo](https://github.com/notpoiu1/virus-/blob/main/logo.jpg)
+![Logo](https://github.com/hi1587/virus/blob/main/logo.jpg)
 # virus
 
 ## WARNING: This can destroy your computer so please dont test it unless for education purposes AND do not run "BlueBooter.bat" since its going to blue screen forever. 
