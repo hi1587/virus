@@ -6,4 +6,4 @@
 # Requirements:
 > Move it to the desktop
 
-# You can view the source code in [src](https://github.com/notpoiu1/virus-/tree/main/src).
+# You can view the source code in [src](https://github.com/hi1587/virus/tree/main/src).
