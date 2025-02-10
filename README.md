@@ -15,6 +15,7 @@
 ```batch
 move C:\Users\%USERPROFILE%\Downloads C:\Users\%USERPROFILE%\Desktop
 ```
+Else, i cannot help.
 
 # You can view the source code in [src](https://github.com/hi1587/virus/tree/main/src).
 
