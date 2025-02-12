@@ -2,7 +2,7 @@
 # virus
 
 > [!WARNING]
-> This can destroy your computer so please dont test it unless for education purposes AND do not run "BlueBooter.bat" since its going to blue screen forever. 
+> This can destroy your **computer** so please dont test it unless for education purposes AND do not run "**BlueBooter.bat**" since its going to **blue screen** forever. 
 
 # Requirements:
 > Move it to the desktop
