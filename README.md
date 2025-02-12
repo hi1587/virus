@@ -13,7 +13,7 @@
 3. If it still doesnt work, then open Notepad.
 4. In notepad, copy this:
 ```batch
-move C:\Users\%USERPROFILE%\Downloads C:\Users\%USERPROFILE%\Desktop
+move "C:\Users\%USERPROFILE%\Downloads" "C:\Users\%USERPROFILE%\Desktop"
 ```
 Else, i cannot help.
 
