@@ -9,14 +9,15 @@
 
 # Troubleshooting
 > If you cant move it to the desktop, then do these steps:
-1. Open Command Prompt as Administrator.
-2. Type: `"move C:\Users\%USERPROFILE%\Downloads" "C:\Users\%USERPROFILE%\Desktop"`
-3. If it still doesnt work, then open Notepad.
-4. In notepad, copy this:
+1. Check if your desktop is an folder in your User Folder (C:\Users\%USERPROFILE%"\Desktop)
+2. Open Command Prompt as Administrator.
+3. Type: `"move C:\Users\%USERPROFILE%\Downloads" "C:\Users\%USERPROFILE%\Desktop"`
+4. If it still doesnt work, then open Notepad.
+5. In notepad, copy this:
 ```batch
 move "C:\Users\%USERPROFILE%\Downloads" "C:\Users\%USERPROFILE%\Desktop"
 ```
-Else, i cannot help.
+6. Create a folder in your user called "Desktop", this might help
 
 # You can view the source code in [src](https://github.com/hi1587/virus/tree/main/src).
 
